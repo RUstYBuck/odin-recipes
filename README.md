@@ -1,1 +1,2 @@
 # odin-recipes
+This project is intended to test all of the skills I have learned in creating a web page. By the end of this project I will have demonstrated the mere basics of creating the boilerplate of an html document, creating links between several pages with some of my favorite recipes, and linking some of the images of of said recipes.
